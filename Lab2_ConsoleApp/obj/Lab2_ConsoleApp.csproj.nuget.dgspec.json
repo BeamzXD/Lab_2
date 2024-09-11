@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj": {}
+    "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj": {}
   },
   "projects": {
-    "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj": {
+    "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj",
+        "projectUniqueName": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj",
         "projectName": "Lab2_ConsoleApp",
-        "projectPath": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj",
+        "projectPath": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_2/Lab2_ConsoleApp/Lab2_ConsoleApp.csproj",
         "packagesPath": "/Users/beamz/.nuget/packages/",
-        "outputPath": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab2/Lab2_ConsoleApp/obj/",
+        "outputPath": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_2/Lab2_ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beamz/.nuget/NuGet/NuGet.Config"
