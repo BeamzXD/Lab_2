@@ -101,7 +101,7 @@ class ClassRoom{
             this.pupils[i] = new Pupil();
         }
     }
-        public void ShowPupilsActions()
+    public void ShowPupilsActions()
     {
         foreach (var pupil in pupils)
         {
@@ -118,11 +118,11 @@ class ClassRoom{
 
 public class Vehicle
 {
-    public double X { get; set; } // Координата X
-    public double Y { get; set; } // Координата Y
-    public double Price { get; set; } // Цена
-    public double Speed { get; set; } // Скорость
-    public int YearOfManufacture { get; set; } // Год выпуска
+    public double X; // Координата X
+    public double Y; // Координата Y
+    public double Price; // Цена
+    public double Speed; // Скорость
+    public int YearOfManufacture; // Год выпуска
 
     // Конструктор базового класса
     public Vehicle(double x, double y, double price, double speed, int yearOfManufacture)
@@ -184,7 +184,7 @@ public class Car : Vehicle
 public class Ship : Vehicle
 {
     public int PassengerCount; // Количество пассажиров
-public string Port; // Порт приписки
+    public string Port; // Порт приписки
 
     // Конструктор для класса Ship
     public Ship(double x, double y, double price, double speed, int yearOfManufacture, int passengerCount, string port)
