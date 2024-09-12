@@ -278,8 +278,8 @@ class Program{
 
         Console.WriteLine("Задание №3");
 
-        const string proKey = "pro123";   // Пример ключа для Pro версии
-        const string expKey = "exp123";   // Пример ключа для Expert версии
+        const string proKey = "pro123";
+        const string expKey = "exp123";
 
         Console.WriteLine("Введите ключ доступа (pro или exp), либо нажмите Enter для бесплатной версии:");
         string key = Console.ReadLine();
@@ -302,7 +302,7 @@ class Program{
             Console.WriteLine("Активирована бесплатная версия");
         }
 
-        // Использование методов
+
         worker.OpenDocument();
         worker.EditDocument();
         worker.SaveDocument();
